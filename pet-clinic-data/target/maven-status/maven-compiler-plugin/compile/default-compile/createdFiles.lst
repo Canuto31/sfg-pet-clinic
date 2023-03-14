@@ -1,0 +1,6 @@
+com\springframework\model\Person.class
+com\springframework\model\Pet.class
+com\springframework\model\Vet.class
+com\springframework\model\Owner.class
+com\springframework\model\PetType.class
+com\springframework\Main.class
